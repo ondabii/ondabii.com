@@ -1,0 +1,2 @@
+# Google AdSense ads.txt - ondabii.com & link.ondabii.com
+google.com, pub-5559319654652196, DIRECT, f08c47fec0942fa0
